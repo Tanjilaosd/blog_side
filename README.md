@@ -1,1 +1,1 @@
-# blog_side
+# blog_sides
